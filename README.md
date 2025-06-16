@@ -1,6 +1,6 @@
 # 💻 Ridham’s Developer Portfolio
 
-![Website Preview](images/thumbnail.png) <!-- Replace this with an actual screenshot of your website -->
+![Website Preview](https://ridhamkumar15.github.io/MyWebsite/images/screenshots/screenshot1.png)
 
 ---
 
@@ -18,21 +18,21 @@ It’s more than just a website — it’s a canvas that showcases my projects, 
 - 🎨 Glassmorphism UI with smooth scroll animations  
 - 🧠 Interactive hover effects and image transitions  
 - 🔧 Custom JavaScript for dynamic behavior  
-- 🌙 Mobile-first approach with dark color palette
+- 🌙 Mobile-first approach with a modern dark color palette
 
 ---
 
 ## 🔗 Live Preview
 
 > 💥 Check out the website here:  
-**[https://ridhamkumar15.github.io/Ridham-Kumar-Resume/](https://ridhamkumar15.github.io/Ridham-Kumar-Resume/)**
+**[https://ridhamkumar15.github.io/MyWebsite](https://ridhamkumar15.github.io/MyWebsite)**
 
 ---
 
 ## 🔍 Explore the Code
 
 > 💻 GitHub Repository:  
-**[https://github.com/RidhamKumar15/Ridham-Kumar-Resume](https://github.com/RidhamKumar15/Ridham-Kumar-Resume)**
+**[https://github.com/RidhamKumar15/MyWebsite](https://github.com/RidhamKumar15/MyWebsite)**
 
 ---
 
@@ -42,28 +42,30 @@ I’m **Ridham**, a dedicated front-end web developer currently exploring full-s
 
 Let’s connect!
 
-- 🌐 **Portfolio**: [Ridham’s Website](https://ridhamkumar15.github.io/Ridham-Kumar-Resume/)
+- 🌐 **Portfolio**: [ridhamkumar15.github.io/MyWebsite](https://ridhamkumar15.github.io/MyWebsite)
 - 💼 **LinkedIn**: [linkedin.com/in/ridham-kumar-71a802290](https://www.linkedin.com/in/ridham-kumar-71a802290)
 - 🧑‍💻 **GitHub**: [github.com/RidhamKumar15](https://github.com/RidhamKumar15)
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Portfolio Screenshot](images/screenshot1.png) 
+![Screenshot 1](images/screenshots/screenshot1.png)  
+![Screenshot 2](images/screenshots/screenshot2.png)  
+![Screenshot 3](images/screenshots/screenshot3.png)
 
 ---
 
 ## 🧰 Tech Stack
 
-- HTML5  
-- CSS3 (Flexbox + Grid)  
-- JavaScript (Vanilla)  
-- AOS (Animate on Scroll Library)  
-- Git & GitHub for version control
+- **HTML5**  
+- **CSS3 (Flexbox + Grid)**  
+- **JavaScript (Vanilla)**  
+- **AOS (Animate on Scroll Library)**  
+- **Git & GitHub** for version control
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
