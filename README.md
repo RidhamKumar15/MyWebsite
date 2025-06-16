@@ -1,6 +1,7 @@
 # 💻 Ridham’s Developer Portfolio
 
-![Website Preview](https://ridhamkumar15.github.io/MyWebsite/images/screenshots/screenshot1.png)
+![Website Preview](![RidhamCode](https://github.com/user-attachments/assets/a7331df1-006f-4685-844c-c937ad3f699a)
+)
 
 ---
 
@@ -49,10 +50,9 @@ Let’s connect!
 ---
 
 ## 📸 Screenshots
-
-![Screenshot 1](images/screenshots/screenshot1.png)  
-![Screenshot 2](images/screenshots/screenshot2.png)  
-![Screenshot 3](images/screenshots/screenshot3.png)
+![Screenshot1](https://github.com/user-attachments/assets/da655ffa-5352-4474-9081-73cb8d32b06d)
+![Screenshot2](https://github.com/user-attachments/assets/cb7052cb-a03a-4398-8671-c0fff900225c)
+![Screenshot3](https://github.com/user-attachments/assets/e98ad428-5cd2-414d-b711-4c73a069595c)
 
 ---
 
