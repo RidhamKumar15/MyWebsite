@@ -1,6 +1,6 @@
 # 💻 Ridham’s Developer Portfolio
 
-Website Preview  
+Hi ! 👋
 <img src="https://github.com/user-attachments/assets/59d5473c-f88b-4fc6-b4c0-021de52009d8" alt="RidhamCode" width="200"/>
 
 ---
