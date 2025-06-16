@@ -1,7 +1,7 @@
 # 💻 Ridham’s Developer Portfolio
+Website Preview
+![RidhamCode](https://github.com/user-attachments/assets/59d5473c-f88b-4fc6-b4c0-021de52009d8)
 
-![Website Preview](![RidhamCode](https://github.com/user-attachments/assets/a7331df1-006f-4685-844c-c937ad3f699a)
-)
 
 ---
 
