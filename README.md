@@ -1,7 +1,7 @@
-# 💻 Ridham’s Developer Portfolio
-
-Hi ! 👋
-<img src="https://github.com/user-attachments/assets/59d5473c-f88b-4fc6-b4c0-021de52009d8" alt="RidhamCode" width="200"/>
+<h1 style="display: flex; align-items: center; gap: 10px; font-size: 1.5rem;">
+  Hi ! 👋 
+  <img src="https://github.com/user-attachments/assets/59d5473c-f88b-4fc6-b4c0-021de52009d8" alt="RidhamCode" width="120" height="120" style="border-radius: 8px;"/>
+</h1>
 
 ---
 
